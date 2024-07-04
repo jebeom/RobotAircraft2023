@@ -1,0 +1,8 @@
+prefix=/home/jebeom/rohang23/catkin_ws/devel
+
+Name: rohang22
+Description: Description of rohang22
+Version: 0.0.0
+Cflags: -I/home/jebeom/rohang23/catkin_ws/src/rohang22/include
+Libs: -L${prefix}/lib -lrohang22
+Requires: roscpp rospy std_msgs
